@@ -118,7 +118,7 @@ This project demonstrates how a basic recommendation system can be built using m
 
 ## 👨‍💻 Author
 
-**Khushi Chauhan**</br>
+**Khushi**</br>
 **26BCE11046**
 
 ---
