@@ -118,8 +118,8 @@ This project demonstrates how a basic recommendation system can be built using m
 
 ## 👨‍💻 Author
 
-**Pratyush Jaiswal**</br>
-**25BAI10165**
+**Khushi Chauhan**</br>
+**26BCE11046**
 
 ---
 
